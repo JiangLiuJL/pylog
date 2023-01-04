@@ -1,7 +1,7 @@
 # pylog
 用python写的一个简易的日志工具
 
-# 安装
+# 准备工作
 
 ```python
 pip install colorlog
